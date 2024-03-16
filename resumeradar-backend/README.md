@@ -23,9 +23,9 @@ Resume Radar is a web application for analyzing resumes to find the most relevan
    git clone https://github.com/your-username/resume-radar.git
    cd resume-radar
 
-2. Build the project
+2. Build the project:
    ./mvnw clean package
 
-3. Run the application
+3. Run the application:
    java -jar target/resume-radar.jar
 
